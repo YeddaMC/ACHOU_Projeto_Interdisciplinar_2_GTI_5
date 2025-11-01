@@ -1,63 +1,60 @@
-
-
-
 # Yedda---Projeto-Integrador---GTI
 Repositorio criado para registrar o desenvolvimento do projeto integrador
 
-# PROJETO-INTEGRADOR-GTI   ACHOU!
+# PROJETO-INTEGRADOR-GTI   ACHOU!
 
 <img width="173" height="168" alt="ACHOU_LOGO" src="https://github.com/user-attachments/assets/dee0335e-b6b1-498d-a1ec-5e09df1d70a5" />
 
-## Sumário 
+## Sumário 
 
-### [1 - IDENTIFICAÇÃO](#1---identificação)
+### [1 - IDENTIFICAÇÃO](#1---identificacao)
 
-### [2 - CONCEPÇÃO](#2---concepção)
-- [Descrição da visão geral do projeto](#descrição-da-visao-geral-do-projeto)
+### [2 - CONCEPÇÃO](#2---concepcao)
+- [Descrição da visão geral do projeto](#descricao-da-visao-geral-do-projeto)
 - [Objetivo do projeto](#objetivo-do-projeto)
 - [Escopo do produto](#escopo-do-produto)
-- [Descrição do produto](#descrição-do-produto)
+- [Descrição do produto](#descricao-do-produto)
 - [Principais entregas](#principais-entregas)
 - [Critérios de aceite](#criterios-de-aceite)
 - [Matriz de risco](#matriz-de-risco)
 
 ### [3 - DESIGN DO SOFTWARE](#3---design-do-software)
 - [Design centrado no usuário](#design-centrado-no-usuario)
-- [Fluxo do Formulário de Pesquisa](#Fluxo-do-Formulário-de-Pesquisa)
+- [Fluxo do Formulário de Pesquisa](#fluxo-do-formulario-de-pesquisa)
 - [Personas e mapa de empatia](#personas-e-mapa-de-empatia)
 - [Storyboard](#storyboard)
 - [UI Desing (guia de estilo)](#ui-desing-guia-de-estilo)
-- [Prototipação do MVP](#prototipação-do-mvp)
-    - [Estudo do fluxo das telas](#estudo-do-fluxo-das-telas)
-    - [Wireframe inicial](#wireframe-inicial)
-    - [PROTOTIPO](#prototipo)
+- [Prototipação do MVP](#prototipacao-do-mvp)
+    - [Estudo do fluxo das telas](#estudo-do-fluxo-das-telas)
+    - [Wireframe inicial](#wireframe-inicial)
+    - [PROTOTIPO](#prototipo)
 
 ### [4 - DESENVOLVIMENTO](#4---desenvolvimento)
-- [a) Processo de software (kanban...)](#a-processo-de-software-kanban)
-- [b) Recursos utilizados (tecnologias, ferramentas de apoio, linguagens, equipam, rede)](#b-recursos-utilizados-tecnologiasferramentas-de-apoio-linguagensequipam-rede)
+- [a) Processo de software (kanban...)](#a-processo-de-software-kanban...)
+- [b) Recursos utilizados (tecnologias, ferramentas de apoio, linguagens, equipam, rede)](#b-recursos-utilizados-tecnologias-ferramentas-de-apoio-linguagens-equipam-rede)
 - [c) Resultados esperados](#c-resultados-esperados)
-- [d) Instruções para download e execução](#d-instruçoes-para-download-e-execução)
-- [e) Licença de uso e distribuição.](#e-licença-de-uso-e-distribuiçao)
+- [d) Instruções para download e execução](#d-instrucoes-para-download-e-execucao)
+- [e) Licença de uso e distribuição.](#e-licenca-de-uso-e-distribuicao)
 
 ### [4\* ESTRATÉGIA DE MARKETING](#4-estrategia-de-marketing)
 
-### [5\* GESTÃO DO PROJETO (ARQUIVOS)](#5-gestão-do-projeto-arquivos)
+### [5\* GESTÃO DO PROJETO (ARQUIVOS)](#5-gestao-do-projeto-arquivos)
 - [a) contexto sequenciador mvp e incrementos](#a-contexto-sequenciador-mvp-e-incrementos)
 - [b) detalhamento de atividades](#b-detalhamneto-de-atividades)
 - [c) cronograma mvp e incrementos](#c-cronograma-mvp-e-incrementos)
 
-### [6\* MÉTRICAS DE MONITORAÇÃO E ACOMPANHAMENTO](#6-métricas-de-monitoração-e-acompanhamento)
+### [6\* MÉTRICAS DE MONITORAÇÃO E ACOMPANHAMENTO](#6-metricas-de-monitoracao-e-acompanhamento)
 
-### [7\* RELATÓRIO DE ENCERRAMENTO E LIÇÕES APRENDIDAS](#7-relatório-de-encerramento-e-lições-aprendidas)
-- [a) Relatório Técnico](#a-relatório-técnico)
-- [b) Plano de negócios](#b-plano-de-negócios)
+### [7\* RELATÓRIO DE ENCERRAMENTO E LIÇÕES APRENDIDAS](#7-relatorio-de-encerramento-e-licoes-aprendidas)
+- [a) Relatório Técnico](#a-relatorio-tecnico)
+- [b) Plano de negócios](#b-plano-de-negocios)
 - [c) Artigo](#c-artigo)
 - [d) Extras](#d-extras)
 
-### [9\* PASTA DE EXTENSÃO](#9-pasta-de-extensão)
+### [9\* PASTA DE EXTENSÃO](#9-pasta-de-extensao)
 - [Documentação das atividades de extensão.](#documentacao-das-atividades-de-extensao)
 
-### [10 SUMÁRIO: Análise PESTEL e Plano de Ação SWOT](#10-Analise-PESTEL-/-Plano-de-Ação-SWOT)
+### [10 SUMÁRIO: Análise PESTEL e Plano de Ação SWOT](#10-sumario-analise-pestel-e-plano-de-acao-swot)
 
 
 ### [11 PLANO DE MARKETING](#11-plano-de-marketing)
@@ -77,6 +74,8 @@ Redes Sociais do Projeto
 Yedda Maria Carvalahais
 
 Data de criação do projeto : Setembro/2025
+
+[↩️ Voltar ao Sumário](#sumário)
 
 ## 2 - CONCEPÇÃO
 
@@ -106,6 +105,8 @@ https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/CRIT%C3%89RIOS-
 
 https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/MATRIZ-DE-RISCO
 
+[↩️ Voltar ao Sumário](#sumário)
+
 # 3 - Design do Software
 
 ## Design centrado no usuario
@@ -116,7 +117,7 @@ https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/Fluxo-do-Formul
 
 ## Personas e mapa de empatia
 
-PERSONA 
+PERSONA 
 https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/Persona-%E2%80%90-Maria-(costureira-do-bairro)
 
 
@@ -126,7 +127,7 @@ https://docs.google.com/document/d/1FvsqWmYhRpIuscLyTkYgx9NKu5ET2xmYP8lAn9U5Yck/
 
 ## UI Desing (guia de estilo)
 
-## Prototipação do MVP 
+## Prototipação do MVP 
 
 ### Estudo do fluxo das telas
 
@@ -164,7 +165,7 @@ GITHUB PAGES
 
 https://yeddamc.github.io/ACHOU-prototipo/
 
-
+[↩️ Voltar ao Sumário](#sumário)
 
 ## 4 - Desenvolvimento
 
@@ -189,7 +190,7 @@ https://yeddamc.github.io/ACHOU-prototipo/
 | **Uso Comercial (NC)** | O código/protótipo **NÃO pode ser usado para fins comerciais** (venda, prestação de serviço pago, incorporação em produto comercial, etc.) sem permissão expressa dos autores. |
 | **Remoção de Créditos** | Não é permitido remover ou ofuscar os avisos de *copyright* e licença dos autores. |
 
-### ✅ O que a Licença CC BY-NC-SA 4.0 PERMITE 
+### ✅ O que a Licença CC BY-NC-SA 4.0 PERMITE 
 
 | Ação | Descrição |
 | :--- | :--- |
@@ -198,11 +199,15 @@ https://yeddamc.github.io/ACHOU-prototipo/
 | **Compartilha Igual (SA)** | Se alguém modificar e redistribuir o trabalho, **deve** usar a mesma licença CC BY-NC-SA 4.0, mantendo a restrição de uso não comercial. |
 | **Crédito (BY)** | Exige que seja dado o **crédito** apropriado aos autores originais em todas as cópias e obras derivadas. |
 
-### 4* Estratégia de Marketing
+[↩️ Voltar ao Sumário](#sumário)
+
+### 4\* ESTRATÉGIA DE MARKETING
 
 link landing page
 
-### 5* Gestão do projeto (arquivos)
+[↩️ Voltar ao Sumário](#sumário)
+
+### 5\* GESTÃO DO PROJETO (ARQUIVOS)
 
 #### a) contexto sequenciador mvp e incrementos
 
@@ -210,9 +215,13 @@ link landing page
 
 #### c) cronograma mvp e incrementos
 
-### 6* Métricas de monitoração e acompanhamento
+[↩️ Voltar ao Sumário](#sumário)
 
-### 7* Relatório de encerramento e lições aprendidas
+### 6\* MÉTRICAS DE MONITORAÇÃO E ACOMPANHAMENTO
+
+[↩️ Voltar ao Sumário](#sumário)
+
+### 7\* RELATÓRIO DE ENCERRAMENTO E LIÇÕES APRENDIDAS
 
 #### a) Relatório Técnico
 
@@ -222,28 +231,30 @@ link landing page
 
 #### d) Extras
 
-     1- modelagem UML
+     1- modelagem UML
 
-     2- Modelagem BD - DER + modelo de dados no workbench
+     2- Modelagem BD - DER + modelo de dados no workbench
 
-     3- Resultados da entrevista com usuario
+     3- Resultados da entrevista com usuario
 
-     4- Termo de livre consentimento
+     4- Termo de livre consentimento
 
-### 9* Pasta de extensão
+[↩️ Voltar ao Sumário](#sumário)
+
+### 9\* PASTA DE EXTENSÃO
 
 Documentação das atividades de extensão.
+
+[↩️ Voltar ao Sumário](#sumário)
 
 ### 10 Analise PESTEL e Plano de Ação SWOT
 
 https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/An%C3%A1lise-PESTEL-e-Plano-de-A%C3%A7%C3%A3o-SWOT
 
+[↩️ Voltar ao Sumário](#sumário)
+
 ### 11 Plano de Marketing
 
 https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/Plano-de-Marketing
 
-
-
-
-
-
+[↩️ Voltar ao Sumário](#sumário)
