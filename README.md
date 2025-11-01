@@ -165,7 +165,9 @@ GITHUB PAGES
 
 https://yeddamc.github.io/ACHOU-prototipo/
 
+
 [↩️ Voltar ao Sumário](#sumário)
+
 
 ## 4 - Desenvolvimento
 
@@ -190,6 +192,7 @@ https://yeddamc.github.io/ACHOU-prototipo/
 | **Uso Comercial (NC)** | O código/protótipo **NÃO pode ser usado para fins comerciais** (venda, prestação de serviço pago, incorporação em produto comercial, etc.) sem permissão expressa dos autores. |
 | **Remoção de Créditos** | Não é permitido remover ou ofuscar os avisos de *copyright* e licença dos autores. |
 
+
 ### ✅ O que a Licença CC BY-NC-SA 4.0 PERMITE 
 
 | Ação | Descrição |
@@ -199,13 +202,17 @@ https://yeddamc.github.io/ACHOU-prototipo/
 | **Compartilha Igual (SA)** | Se alguém modificar e redistribuir o trabalho, **deve** usar a mesma licença CC BY-NC-SA 4.0, mantendo a restrição de uso não comercial. |
 | **Crédito (BY)** | Exige que seja dado o **crédito** apropriado aos autores originais em todas as cópias e obras derivadas. |
 
+
 [↩️ Voltar ao Sumário](#sumário)
+
 
 ### 4\* ESTRATÉGIA DE MARKETING
 
 link landing page
 
+
 [↩️ Voltar ao Sumário](#sumário)
+
 
 ### 5\* GESTÃO DO PROJETO (ARQUIVOS)
 
@@ -215,11 +222,15 @@ link landing page
 
 #### c) cronograma mvp e incrementos
 
+
 [↩️ Voltar ao Sumário](#sumário)
+
 
 ### 6\* MÉTRICAS DE MONITORAÇÃO E ACOMPANHAMENTO
 
+
 [↩️ Voltar ao Sumário](#sumário)
+
 
 ### 7\* RELATÓRIO DE ENCERRAMENTO E LIÇÕES APRENDIDAS
 
@@ -238,23 +249,32 @@ link landing page
      3- Resultados da entrevista com usuario
 
      4- Termo de livre consentimento
+     
 
 [↩️ Voltar ao Sumário](#sumário)
+
 
 ### 9\* PASTA DE EXTENSÃO
 
 Documentação das atividades de extensão.
 
+
 [↩️ Voltar ao Sumário](#sumário)
+
 
 ### 10 Analise PESTEL e Plano de Ação SWOT
 
+
 https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/An%C3%A1lise-PESTEL-e-Plano-de-A%C3%A7%C3%A3o-SWOT
+
 
 [↩️ Voltar ao Sumário](#sumário)
 
+
 ### 11 Plano de Marketing
 
+
 https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/Plano-de-Marketing
+
 
 [↩️ Voltar ao Sumário](#sumário)
