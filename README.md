@@ -78,6 +78,9 @@ https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/MATRIZ-DE-RISCO
 
 ## Design centrado no usuario
 
+https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/Design-centrado-no-usu%C3%A1rio
+
+
 ## Fluxo do Formulário de Pesquisa
 
 https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/Fluxo-do-Formul%C3%A1rio-de-Pesquisa
