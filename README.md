@@ -96,6 +96,14 @@ Desenvolver uma aplicação digital com Design Centrado no Usuário que funcione
 
 ### Escopo do produto
 
+### Descrição do produto
+
+**ACHOU!** - Plataforma digital georreferenciada voltada à **economia de proximidade**.
+
+Aplicativo móvel que utiliza georreferenciamento para mapear e promover o **comércio e serviços de base hiperlocal**.
+Fundamentado nos conceitos de **Cidades de 15 Minutos** e **comércio de conveniência**, visa conectar consumidores 
+à oferta de produtos/serviços mais próxima e relevante.
+
 ### Descriçao do produto
 
 ### Principais entregas
