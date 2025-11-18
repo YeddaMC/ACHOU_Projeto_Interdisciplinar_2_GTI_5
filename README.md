@@ -122,6 +122,11 @@ ________________________________________________________________________________
 ### 3.e.1 [Estudo do fluxo das telas](https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/Estudo-do-Prot%C3%B3tipo)
 
 ------------
+
+#correçao wireframes    
+
+https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/WIREFRAMES-%E2%80%90-Estudo_de_telas
+
 ### 3.e.2  wireframe inicial
 https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/wireframes
 ------------
