@@ -3,7 +3,10 @@
 # Yedda---Projeto-Integrador---GTI
 Repositorio criado para registrar o desenvolvimento do projeto integrador
 
-# PROJETO-INTEGRADOR-GTI   ACHOU!
+# PROJETO-INTEGRADOR-GTI   
+
+# ACHOU! 
+## Plataforma digital georreferenciada voltada a economia de proximidade.
 
 <img width="173" height="168" alt="ACHOU_LOGO" src="https://github.com/user-attachments/assets/dee0335e-b6b1-498d-a1ec-5e09df1d70a5" />
 
