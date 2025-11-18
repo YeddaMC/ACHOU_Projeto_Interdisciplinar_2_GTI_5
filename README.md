@@ -31,7 +31,7 @@ Yedda Maria Carvalahais
 
 Setembro/2025
 
-
+__________________________________________________________________________________________________________________________
 
 ## 2 - CONCEPÇÃO
 
@@ -62,6 +62,7 @@ Fundamentado nos conceitos de **Cidades de 15 Minutos** e **comércio de conveni
 [Entrega 2 - 08/11/2025](https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/Entrega-2-%E2%80%90-08-11-2025) 
 
 
+
 Entrega 3 - 19/11/2025
 
 [REPOSITÓRIO GITHUB](url) 
@@ -88,6 +89,8 @@ Entrega 4 - 03/122025
 
 #### 2c.4 [Matriz de risco](https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/MATRIZ-DE-RISCO) 
 
+
+______________________________________________________________________________________________________________________________
 
 # 3 - Design do Software
 
@@ -128,62 +131,32 @@ https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/wireframes
 
 ## 3.e.4 [PROTOTIPO](https://www.figma.com/make/p6LCeeGY55gV06XwpGHYJ3/PROTOTIPO-ACHOU?node-id=0-1&p=f&t=Isfl7iOyqCO1fSCB-0)
 
+___________________________________________________________________________________________________________________
 
-## 4 - Desenvolvimento
+# 4 - Desenvolvimento
 
-### 4a) Processo de software [KANBAN - GITHUB PROJECTS](https://github.com/users/YeddaMC/projects/8/views/3)
+## 4a) Processo de software [KANBAN - GITHUB PROJECTS](https://github.com/users/YeddaMC/projects/8/views/3)
 
 --------------------------------------------------------------------------------------------
-###4 b) [Recursos Utilizados](https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/Recursos-Utilizados) 
+## 4 b) [Recursos Utilizados](https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/Recursos-Utilizados) 
 
 
 
-Para operacionalizar o DCU, foram utilizadas ferramentas específicas, como:
-
-* **Pesquisa de Campo:** Para coleta de dados e validação das necessidades do público-alvo.
-* **Criação de Personas e Mapa de Empatia:** Para aprofundar a compreensão das motivações e desafios dos usuários (empreendedores e clientes).
-* **Storyboard:** Para visualização do cenário de uso e antecipação do fluxo de interação do usuário com o aplicativo.
-* **Prototipação de Alta Fidelidade:** Para validação da usabilidade e dos fluxos antes do desenvolvimento final.
-
-### 4c) [Resultados Esperados](https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/Resultados-Esperados--%E2%80%90-P.I.1-%E2%80%90-GTI4-%E2%80%90-2025.2)
-
-### 4d) Instruçoes para download e execução
-
-### 4e) Licença de uso e distribuiçao.
 
 
-# 🌟 Licença Creative Commons — Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional (CC BY-NC-SA 4.0)
+## 4c) [Resultados Esperados](https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/Resultados-Esperados--%E2%80%90-P.I.1-%E2%80%90-GTI4-%E2%80%90-2025.2)
 
-Este projeto está licenciado sob a CC BY-NC-SA 4.0. Respeite os termos abaixo ao utilizar o código/protótipo.
+## 4d) Instruçoes para download e execução
 
----
-
-### 🛑 O que a Licença CC BY-NC-SA 4.0 PROÍBE
-
-| Ação | Descrição |
-| :--- | :--- |
-| **Uso Comercial (NC)** | O código/protótipo **NÃO pode ser usado para fins comerciais** (venda, prestação de serviço pago, incorporação em produto comercial, etc.) sem permissão expressa dos autores. |
-| **Remoção de Créditos** | Não é permitido remover ou ofuscar os avisos de *copyright* e licença dos autores. |
-
-### ✅ O que a Licença CC BY-NC-SA 4.0 PERMITE e EXIGE
-
-| Elemento | Descrição |
-| :--- | :--- |
-| **Crédito (BY)** | É **obrigatório** conceder o **crédito** apropriado aos autores originais em todas as cópias e obras derivadas (Atribuição). |
-| **Modificação** | O código pode ser modificado, alterado e aprimorado. |
-| **Distribuição e Cópia** | O código pode ser distribuído e copiado livremente. |
-| **Compartilha Igual (SA)** | Se alguém modificar, adaptar ou redistribuir o trabalho, **deve** fazê-lo sob a **mesma licença CC BY-NC-SA 4.0**, mantendo todas as restrições originais. |
-
----
-
-### ✍️ Como Fornecer Atribuição (BY)
-
-Para cumprir a exigência de atribuição, inclua a seguinte informação em um local visível do seu projeto/documentação:
-
-> &copy; 2025 YEDDA MARIA CARVALHAIS. Licenciado sob [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.pt).
+## 4e) Licença de uso e distribuiçao.
 
 
+# 🌟 [Licença Creative Commons — Atribuição-NãoComercial](https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/LICEN%C3%87A-N%C3%83O-COMERCIAL)
 
+(CC BY-NC-SA 4.0)
+
+
+____________________________________________________________________________________________________________________
 
 
 ### 5. ESTRATÉGIA DE MARKETING
@@ -191,7 +164,7 @@ Para cumprir a exigência de atribuição, inclua a seguinte informação em um 
 link landing page
 
 
-
+___________________________________________________________________________________________________________________________________
 
 
 ### 6. GESTÃO DO PROJETO (ARQUIVOS)
@@ -204,13 +177,13 @@ link landing page
 
 
 
-[↩️ Voltar ao Sumário](#sumário)
+____________________________________________________________________________________________________________________________________
 
 
 ### 7. MÉTRICAS DE MONITORAÇÃO E ACOMPANHAMENTO
 
 
-[↩️ Voltar ao Sumário](#sumário)
+_______________________________________________________________________________________________________________________________________
 
 
 ### 8. RELATÓRIO DE ENCERRAMENTO E LIÇÕES APRENDIDAS
@@ -238,7 +211,7 @@ link landing page
      https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/TERMO-DE-ACEITE
      
 
-[↩️ Voltar ao Sumário](#sumário)
+_______________________________________________________________________________________________________________________________
 
 
 ### 9\* PASTA DE EXTENSÃO
