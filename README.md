@@ -104,7 +104,7 @@ Entrega 4 - 03/122025
 
  e
  
-## [mapa de Empatia](https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/MAPA-DE-EMPATIA)
+## [Mapa de Empatia](https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/MAPA-DE-EMPATIA)
 
 
 
