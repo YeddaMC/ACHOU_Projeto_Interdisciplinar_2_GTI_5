@@ -55,15 +55,21 @@ Fundamentado nos conceitos de **Cidades de 15 Minutos** e **comércio de conveni
 
 
 #### 2c.2 Principais entregas
-Entrega 1 - 01/10/2025
 
-https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/APS1-%E2%80%90-ENTREGA-1
+[Entrega 1 - 01/10/2025](https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/APS1-%E2%80%90-ENTREGA-1) 
 
-Entrega 2 - 08/11/2025
 
-https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/Entrega-2-%E2%80%90-08-11-2025
+[Entrega 2 - 08/11/2025](https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/Entrega-2-%E2%80%90-08-11-2025) 
+
 
 Entrega 3 - 19/11/2025
+
+[REPOSITÓRIO](url) 
+
+
+[PROTÓTIPO](https://www.figma.com/make/p6LCeeGY55gV06XwpGHYJ3/PROTOTIPO-ACHOU?node-id=0-1&p=f&t=Isfl7iOyqCO1fSCB-0) 
+
+
 
 *repositório + protótipo
 
