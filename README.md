@@ -37,18 +37,20 @@ ________________________________________________________________________________
 
 ### 2a. Descrição da visão geral do projeto :
 
-Este projeto visa a criação e desenvolvimento de uma aplicação com design centrado no usuário que atenda às necessidades de consumo e serviços em um contexto hiperlocal. O foco é na experiência fluida, propondo facilitar a conexão entre pequenos comerciantes e os moradores do seu entorno imediato. O objetivo é contribuir para a vitalidade econômica da região e apoiar a adoção de um modelo urbano mais sustentável e acessível, alinhado aos princípios da Cidade de 15 Minutos, como meio para aumentar a visibilidade e a eficiência desses negócios, promovendo o desenvolvimento local, a sustentabilidade e a conveniência para a comunidade.
+
+O modo de vida contemporâneo valoriza soluções de proximidade para a vida cotidiana, incluindo aí hábitos de consumo que se voltam para o "comércio de bairro" (proximidade-conveniência), inclusive com grandes redes se voltando para esse segmento de mercado. Este projeto visa a criação e desenvolvimento de uma aplicação com design centrado no usuário que atenda às necessidades de consumo e serviços em um contexto hiperlocal. O foco é na experiência fluida, propondo facilitar a conexão entre pequenos comerciantes e as pessoas que residem, trabalham ou estudam no seu entorno imediato. O objetivo é contribuir para a vitalidade econômica da região e apoiar a adoção de um modelo urbano mais sustentável e acessível, alinhado aos princípios da Cidade de 15 Minutos, como meio para aumentar a visibilidade e a eficiência desses negócios, promovendo o desenvolvimento local, a sustentabilidade e a conveniência para a comunidade.
+
 
 ### 2b. Objetivo do projeto
 
-Desenvolver uma aplicação digital com Design Centrado no Usuário que funcione como um elo entre o comércio de proximidade e os moradores em um contexto hiperlocal, visando impulsionar o comercio de base da região, a transformação digital dos pequenos negócios e a conveniência alinhada aos princípios da Cidade de 15 Minutos.
+Desenvolver uma aplicação digital com Design Centrado no Usuário que funcione como um elo entre o comércio de proximidade e as pessoas que residem, trabalham ou estudam no entorno, em um contexto hiperlocal, visando impulsionar o comércio de base da região, a transformação digital dos pequenos negócios e a conveniência alinhada aos princípios da Cidade de 15 Minutos.
 
 ### 2c. Escopo do produto
 
 #### 2c.1 Descrição
 **ACHOU!** - Plataforma digital georreferenciada voltada à **economia de proximidade**.
 
-Aplicativo móvel que utiliza georreferenciamento para mapear e promover o **comércio e serviços de base hiperlocal**.
+Aplicativo móvel que utiliza georreferenciamento para mapear e promover  **comércio e serviços de base hiperlocal**.
 Fundamentado nos conceitos de **Cidades de 15 Minutos** e **comércio de conveniência**, visa conectar consumidores 
 à oferta de produtos/serviços mais próxima e relevante.
 
