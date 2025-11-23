@@ -70,7 +70,7 @@ Entrega 3 - 19/11/2025
 [REPOSITÓRIO GITHUB](url) 
 
 
-[PROTÓTIPO](https://www.figma.com/make/p6LCeeGY55gV06XwpGHYJ3/PROTOTIPO-ACHOU?node-id=0-1&p=f&t=Isfl7iOyqCO1fSCB-0) 
+[PROTÓTIPO](https://brook-gold-96778548.figma.site/) 
 
 
 
@@ -132,7 +132,7 @@ ________________________________________________________________________________
 ## 3.e.1 [Roteiro de teste baseado nos criterios de aceite](https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/Testes)
 
 
-## 3.e.4 [PROTOTIPO](https://brook-gold-96778548.figma.site/?lwt=true)
+## 3.e.4 [PROTOTIPO](https://brook-gold-96778548.figma.site/)
 
 ___________________________________________________________________________________________________________________
 
