@@ -199,9 +199,8 @@ ________________________________________________________________________________
 
 #### 8d) Extras
 
-     8d.1- modelagem UML
-     [VIDE TEMPLATE 2]( https://drive.google.com/drive/folders/1wMfd4j2soDd-TCAzrkDX4LjO0kTRfr6w)
-
+     8d.1- [UML](https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/Diagramas-UML-_-Codigos-e-Instru%C3%A7%C3%B4es-de-Renderiza%C3%A7%C3%B5a)
+     
     
 
      
