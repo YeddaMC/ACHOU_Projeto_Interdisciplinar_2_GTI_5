@@ -81,6 +81,9 @@ Entrega 4 - 03/122025
 
 [WIPEX/slides](https://drive.google.com/file/d/1b19IPFd1_wSGLc6b-LkxMR3NIy1SL-6P_U1Be8F0NEU/view) 
 
+[IV WIPES](https://achou-plataforma-digital-4vcpy0r.gamma.site/)
+
+
 
 [Resumo](https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/RESUMO_IV-WIPEX_ENTREGA-4-%E2%80%9004-12-2025) 
 
