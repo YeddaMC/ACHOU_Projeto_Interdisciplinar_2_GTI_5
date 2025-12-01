@@ -20,7 +20,7 @@ Repositorio criado para registrar o desenvolvimento do projeto integrador
 
 
 
-1b. Redes Sociais do Projeto
+1b. Redes Sociais do Projeto - EM DESENVOLVIMENTO
 
 
 1c. Equipe:
@@ -169,7 +169,25 @@ ________________________________________________________________________________
 
 ### 5. ESTRATÉGIA DE MARKETING
 
-link landing page
+### 5.1 Analise PESTEL e Plano de Ação SWOT
+
+
+https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/An%C3%A1lise-PESTEL-e-Plano-de-A%C3%A7%C3%A3o-SWOT
+
+
+[↩️ Voltar ao Sumário](#sumário)
+
+
+### 5.2 Plano de Marketing
+
+
+https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/Plano-de-Marketing
+
+
+[↩️ Voltar ao Sumário](#sumário)
+
+
+5.3 link landing page - EM DESENVOLVIMENTO
 
 
 ___________________________________________________________________________________________________________________________________
@@ -221,27 +239,13 @@ ________________________________________________________________________________
 _______________________________________________________________________________________________________________________________
 
 
-### 9\* PASTA DE EXTENSÃO
+### 9\* EXTENSÃO
 
-Documentação das atividades de extensão.
+[IV WIPEX - 04/12/2025](https://docs.google.com/presentation/d/1b19IPFd1_wSGLc6b-LkxMR3NIy1SL-6P_U1Be8F0NEU/edit?slide=id.p1#slide=id.p1)
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/0b23936a-6a61-4eb1-b0b3-b7d8fb118a5a" />
 
-
-[↩️ Voltar ao Sumário](#sumário)
-
-
-### 10 Analise PESTEL e Plano de Ação SWOT
-
-
-https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/An%C3%A1lise-PESTEL-e-Plano-de-A%C3%A7%C3%A3o-SWOT
 
 
 [↩️ Voltar ao Sumário](#sumário)
 
 
-### 11 Plano de Marketing
-
-
-https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/Plano-de-Marketing
-
-
-[↩️ Voltar ao Sumário](#sumário)
