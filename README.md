@@ -2,7 +2,11 @@
 
 # Projeto Interdisciplinar 2 - GTI 5 - IFPR
 Repositorio criado para registrar o desenvolvimento do projeto interdisciplinar 2.
-EQUIPE :  Mary Ana Carvalhais Carneiro
+
+EQUIPE : 
+
+Mary Ana Carvalhais Carneiro
+
           Yedda Maria Carvalhais
 
 
