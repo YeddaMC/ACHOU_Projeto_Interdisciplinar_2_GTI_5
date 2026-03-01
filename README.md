@@ -14,15 +14,156 @@ Yedda Maria Carvalhais
 # ACHOU! 
 ## Plataforma digital georreferenciada voltada a economia de proximidade.
 
+
+## 1. Identificação
+* **Identidade Visual:** [Logotipo e paleta de cores]
 <img width="173" height="168" alt="ACHOU_LOGO" src="https://github.com/user-attachments/assets/dee0335e-b6b1-498d-a1ec-5e09df1d70a5" />
 
+* **Redes Sociais:** [Links de divulgação]
+  
+* **Organização da Equipe:**
+*
+*   * **Membro A:** Yedda Maria Carvalhais.
+    * **Membro B:** Mary Ana Carvalhais Carneiro.
+      
+* **Comunicação:** Reuniões presenciais para alinhamento e GitHub Projects para atribuição de tarefas e registros. Frequência conforme o andamento.
+* **Data de Criação:** 23/02/2026
+
+---
+
+## 2. Concepção
+* **Visão Geral:**
+
+O modo de vida contemporâneo valoriza soluções de proximidade para a vida cotidiana, incluindo hábitos de consumo voltados para o "comércio de bairro" (proximidade e conveniência), modelo de negócios em ascensão, inclusive com grandes redes se direcionando para esse segmento de mercado.
+Este projeto visa à criação e ao desenvolvimento de uma aplicação com design centrado no usuário, que atenda às necessidades de consumo e serviços em um contexto hiperlocal. O foco está na experiência fluida, propondo facilitar a conexão entre pequenos comerciantes e as pessoas que residem, trabalham ou estudam em seu entorno imediato.
+O objetivo é contribuir para a vitalidade econômica da região e apoiar a adoção de um modelo urbano mais sustentável e acessível, em convergência com o conceito urbanístico da Cidade de 15 Minutos, que busca diminuir a dependência do automóvel e melhorar a qualidade de vida urbana.
+Assim, pretende-se aumentar a visibilidade, a inclusão digital e a eficiência desses pequenos negócios, o desenvolvimento local, a sustentabilidade e a conveniência para a comunidade.
+* 
+* **Objetivo:**
+Desenvolver uma aplicação digital com Design Centrado no Usuário que funcione como um elo entre o comércio de proximidade e as pessoas que residem, trabalham ou estudam no entorno, em um contexto hiperlocal, visando impulsionar o comércio de base da região, a transformação digital dos pequenos negócios e a conveniência alinhada aos princípios da Cidade de 15 Minutos.
+* 
+
+### ESCOPO DO PRODUTO - ACHOU! v2.0
+
+#### 1. DESCRIÇÃO
+Plataforma mobile georreferenciada para economia hiperlocal que conecta consumidores a negócios próximos (raio de 15 minutos). Modelo freemium com 4 níveis de planos, sistema de favoritos, moderação de conteúdo e painel de gestão para empreendedores.
+
+#### 2. PRINCIPAIS ENTREGAS (Marcos/Milestones)
+
+| Sprint | Tema | Entregas Chave |
+|:---:|:---|:---|
+| **0** | Infraestrutura e Identidade | Identidade visual; Wireframes; Wiki inicial; Setup React Native + Firebase; Arquitetura; CU01-CU03 (T2, T3, T5) |
+| **1** | Motor de Busca e Anúncios | Coleção "Ads"; CU07 (T6); GPS/Geocoding (RF02); Firebase Storage (RF11/12); SEED com 10 anúncios; RF03-RF07 |
+| **2** | Busca Hiperlocal e Localização | CU04 (T1); CU05 (T4); CU06 (WhatsApp - RF07); Motor de busca com raio de 15 min; Queries geográficas |
+| **3** | Engajamento e Gestão | CU08 (T9); CU11 (T10); CU10 (T7); CU09 (T12); RF08, RF14, RF16, RF09 |
+| **4** | Governança e Refinamento | CU12 (Painel Admin); Lógica de aprovação/rejeição; Filtro "Aprovado"; RF17-RF18; Modo Claro/Escuro (RF21) |
+| **5** | Estabilização e UX | Feedback visual; Acessibilidade; Diferenciação Premium vs. Freemium; Correção de bugs; Performance |
+| **6** | Entrega e Consolidação | Consolidação de épicos; Documentação técnica final; Wiki atualizada; Manual do sistema |
+| **7** | Evoluções Futuras | Roadmap v3.0; Análise de feedback; Priorização de novas features |
+
+#### 3. CRITÉRIOS DE ACEITE (Resumido)
+* ✅ 21 RF implementados
+* ✅ 9 RNF validados
+* ✅ 13 CU rastreáveis
+* ✅ 12 telas funcionais
+* ✅ Cadastro < 5 min
+* ✅ Contato WhatsApp ≤ 3 cliques
+* ✅ Carregamento T1 < 3s
+* ✅ Anúncios apenas aprovados visíveis
+* ✅ Validações `firestore.rules` ativas
+* ✅ Sincronização Firebase 100% tempo real
 
 
 
 
+### MATRIZ DE RISCOS COMPLETA - ACHOU! v2.0
+
+| ID | Risco (Técnico e Prático) | Tipo | Impacto | Prob. | Resposta (Plano de Ação) |
+|:---:|:---|:---:|:---:|:---:|:---|
+| 01 | **Falha na sincronização Firebase** (Dados não atualizam na hora) | Técnico | Alto | 30% | Cache local e retry automático (Salvar no celular e tentar novamente) |
+| 02 | **Geolocalização imprecisa** (GPS mostrar lugar errado) | Técnico | Alto | 40% | Validação de coordenadas e fallback (Permitir digitar endereço) |
+| 03 | **Performance deficiente em 3G** (App lento em internet ruim) | Técnico | Alto | 25% | Otimização de queries, lazy loading e compressão de imagens |
+| 04 | **Integração WhatsApp instável** (Botão não abrir o chat) | Técnico | Médio | 20% | Fallback para URL padrão e testes em múltiplos dispositivos |
+| 05 | **Falha no upload/Cloudinary** (Erro ao enviar fotos dos anúncios) | Técnico | Médio | 15% | Retry automático e validação de formato/tamanho pré-upload |
+| 06 | **Bugs em Firestore.rules** (Sistema bloquear usuários legítimos) | Técnico | Alto | 35% | Testes unitários rigorosos e revisão de código antes do deploy |
+| 07 | **Problemas no Modo Claro/Escuro** (Interface com erro visual) | Técnico | Baixo | 10% | Testes de contraste e validação de temas em diferentes telas |
+| 08 | **Baixa adesão aos planos Premium** (Lojistas não pagarem) | Negócio | Alto | 60% | Marketing direcionado e oferta de Trials (Período de teste grátis) |
+| 09 | **Falta de massa crítica** (Poucos anúncios por cidade/bairro) | Negócio | Alto | 50% | Programa de incentivos e parcerias com associações comerciais |
+| 10 | **Concorrência de gigantes** (Google Maps, iFood) | Negócio | Alto | 70% | Diferenciação por hiperlocalismo, UX simples e taxa zero |
+| 11 | **Denúncias maliciosas/Spam** (Ataques entre usuários/lojas) | Negócio | Médio | 45% | Sistema de reputação e limite de denúncias por usuário |
+| 12 | **Insuficiência de moderadores** (Falta de gente para analisar ads) | Negócio | Médio | 40% | Automação de filtros iniciais e crowdsourcing (ajuda da comunidade) |
+| 13 | **Dificuldade em monetização** (Modelo de negócio não sustentar) | Negócio | Alto | 55% | Diversificar: planos + anúncios patrocinados + comissão de leads |
+| 14 | **Rejeição do modelo freemium** (Empreendedor não ver valor) | Negócio | Médio | 35% | Comunicação clara de benefícios e suporte dedicado ao parceiro |
+| 15 | **Vazamento de dados pessoais** (Falha de segurança em CPF/Tel) | Técnico | Alto | 10% | Criptografia, auditoria de segurança e compliance total com a LGPD |
+| 16 | **Delay no deploy/CI-CD** (Atraso na publicação de atualizações) | Técnico | Médio | 25% | Automação de testes e uso de Staging Environment (Ambiente de teste) |
+| 17 | **Churn por interface confusa** (Usuário desistir por ser difícil) | Negócio | Médio | 30% | Testes de usabilidade (A/B testing) e Onboarding (Guia de boas-vindas) |
+| 18 | **Indisponibilidade Firebase/Outage** (Servidor do Google cair) | Técnico | Alto | 5% | Fallback offline, redundância de dados e monitoramento 24/7 |
 
 
-------------------------------------------------------------------------------------------------------------------------------------
+
+## 3. Design do Software
+* **Design Centrado no Usuário:**
+## 3 [Design centrado no usuario](https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/Design-centrado-no-usu%C3%A1rio) 
+
+* 
+* **Personas e Mapa de Empatia:**
+## [Persona](https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/Persona-%E2%80%90-Maria-costureira-do-bairro)
+
+ e
+ 
+## [Mapa de Empatia](https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/MAPA-DE-EMPATIA)
+
+
+* 
+* **Storyboard:** [Cenários de uso real]
+* **UI Design:** [Guia de estilo/Cores/Tipografia]
+* **Prototipação do MVP (Quant-UX):**
+    * **Roteiro de Teste:** [Baseado nos critérios de aceite]
+    * **Interfaces:** [Links das telas e fluxos]
+
+---
+
+## 4. Desenvolvimento
+* **Processo de Software:** [Scrum, XP, Kanban, etc.]
+* **Recursos:** [Tecnologias, Ferramentas, Linguagem, Hardware]
+* **Resultados Esperados:** [Performance e comportamento]
+* **Instruções:** [Como baixar e executar o projeto]
+* **Licença:** [Tipo de licença e distribuição]
+
+---
+
+## 5. Estratégia de Marketing Digital
+* **Engajamento:** [Plano de divulgação]
+* **Canais:** [Landing Page ou Página de Vendas]
+
+---
+
+## 6. Gestão do Projeto
+* **Sequenciador:** [Contexto do MVP e incrementos]
+* **Kanban:** [Link para o board do Trello]
+* **Cronograma:** [Datas de entregas do MVP e fases]
+* **Métricas:** [Indicadores de monitoração]
+
+---
+
+## 7. Encerramento e Extras
+* **Relatórios:** [Relatório Técnico, Plano de Negócio, Artigo]
+* **Modelagem:** [UML e Banco de Dados/DER]
+* **Pesquisa:** [Entrevistas e Termo de Consentimento]
+
+---
+
+## 8. Pasta Extensão
+* **Documentação:** [Planejamento, feedback, fotos e relato de experiência]
+
+
+
+<table><tr style="background-color: #2ea44f;"><td> </td></tr></table><table><tr style="background-color: #2ea44f;"><td> </td></tr></table>
+
+<table><tr style="background-color: #2ea44f;"><td> </td></tr></table><table><tr style="background-color: #2ea44f;"><td> </td></tr></table>
+
+<table><tr style="background-color: #d73a49;"><td> </td></tr></table><table><tr style="background-color: #2ea44f;"><td> </td></tr></table>
+
 &copy; 2025 YEDDA MARIA CARVALHAIS. Licenciado sob [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.pt).
 
 # Yedda - Projeto Interdisciplinar 1 - GTI 4 - IFPR
