@@ -1,5 +1,26 @@
 &copy; 2025 YEDDA MARIA CARVALHAIS. Licenciado sob [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.pt).
 
+# Projeto Interdisciplinar 2 - GTI 5 - IFPR
+Repositorio criado para registrar o desenvolvimento do projeto interdisciplinar 2.
+EQUIPE :  Mary Ana Carvalhais Carneiro
+          Yedda Maria Carvalhais
+
+
+
+# ACHOU! 
+## Plataforma digital georreferenciada voltada a economia de proximidade.
+
+<img width="173" height="168" alt="ACHOU_LOGO" src="https://github.com/user-attachments/assets/dee0335e-b6b1-498d-a1ec-5e09df1d70a5" />
+
+
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+&copy; 2025 YEDDA MARIA CARVALHAIS. Licenciado sob [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.pt).
+
 # Yedda - Projeto Interdisciplinar 1 - GTI 4 - IFPR
 Repositorio criado para registrar o desenvolvimento do projeto interdisciplinar 1.
 
