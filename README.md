@@ -21,11 +21,12 @@ Abaixo estão os links para os artefatos e documentos gerados durante o ciclo de
 
 
 ### 📄 DOCUMENTAÇÃO E PLANEJAMENTO
-* REVISÃO ENTREGAS E DOCUMENTOS PROJETO INTERDISCIPLINAR 1 
+* REVISÃO ENTREGAS E DOCUMENTOS PROJETO INTERDISCIPLINAR 1
+* * [RELAÇÃO DE HISTÓRIAS DE USUÁRIO (US)](https://github.com/YeddaMC/Yedda_Projeto_Interdisciplinar_1_GTI_4/wiki/0-RELA%C3%87%C3%83O-DE-HIST%C3%93RIAS-DE-USU%C3%81RIO-(US))
 * [MAPEAMENTO DE TAREFAS (ÁRVORE)](https://github.com/users/YeddaMC/projects/9/views/5?pane=issue&itemId=162578060)
 * [PRODUCT BACKLOG HIERÁRQUICO](https://github.com/YeddaMC/Yedda_Projeto_Interdisciplinar_1_GTI_4/wiki/0-%E2%80%90-VERSIONAMENTO_SPRINT_0#2-project-backlog-vis%C3%A3o-geral)
 * [SPRINT BACKLOG](https://github.com/YeddaMC/Yedda_Projeto_Interdisciplinar_1_GTI_4/wiki/0_-SPRINT-_-BACKLOG)
-* [RELAÇÃO DE HISTÓRIAS DE USUÁRIO (US)](https://github.com/YeddaMC/Yedda_Projeto_Interdisciplinar_1_GTI_4/wiki/0-RELA%C3%87%C3%83O-DE-HIST%C3%93RIAS-DE-USU%C3%81RIO-(US))
+
 * [MATRIZ DE RASTREABILIDADE](https://github.com/YeddaMC/Yedda_Projeto_Interdisciplinar_1_GTI_4/wiki/0-_-MATRIZ-DE-RASTREABILIDADE)
 * [MATRIZ DE RISCO](https://github.com/YeddaMC/Yedda_Projeto_Interdisciplinar_1_GTI_4/wiki/0-MATRIZ-DE-RISCO)
 * [DOCUMENTO VERSIONADO (V2.0)](https://github.com/YeddaMC/Yedda_Projeto_Interdisciplinar_1_GTI_4/wiki/0-%E2%80%90-VERSIONAMENTO_SPRINT_0)
