@@ -53,6 +53,7 @@ Plataforma mobile georreferenciada para economia hiperlocal que conecta consumid
 | Sprint | Tema | Entregas Chave |
 |:---:|:---|:---|
 | **0** | Infraestrutura e Identidade | Identidade visual; Wireframes; Wiki inicial; Setup React Native + Firebase; Arquitetura; CU01-CU03 (T2, T3, T5) |
+| **0** | 
 | **1** | Motor de Busca e Anúncios | Coleção "Ads"; CU07 (T6); GPS/Geocoding (RF02); Firebase Storage (RF11/12); SEED com 10 anúncios; RF03-RF07 |
 | **2** | Busca Hiperlocal e Localização | CU04 (T1); CU05 (T4); CU06 (WhatsApp - RF07); Motor de busca com raio de 15 min; Queries geográficas |
 | **3** | Engajamento e Gestão | CU08 (T9); CU11 (T10); CU10 (T7); CU09 (T12); RF08, RF14, RF16, RF09 |
@@ -115,16 +116,18 @@ Plataforma mobile georreferenciada para economia hiperlocal que conecta consumid
 
 
 * 
-* **Storyboard:** [Cenários de uso real]
-* **UI Design:** [Guia de estilo/Cores/Tipografia]
-* **Prototipação do MVP (Quant-UX):**
+##  [Storyboard](https://docs.google.com/document/d/1FvsqWmYhRpIuscLyTkYgx9NKu5ET2xmYP8lAn9U5Yck/edit?usp=sharing)
+## 3d.[ UI Desing - guia de estilo](https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/GUIA-DE-ESTILO-%E2%80%90-UI-Desing)
+[PROTÓTIPO](https://brook-gold-96778548.figma.site/) 
+
     * **Roteiro de Teste:** [Baseado nos critérios de aceite]
     * **Interfaces:** [Links das telas e fluxos]
 
 ---
 
 ## 4. Desenvolvimento
-* **Processo de Software:** [Scrum, XP, Kanban, etc.]
+[KANBAN](https://github.com/users/YeddaMC/projects/9/views/5 ) 
+[ROADMAP](https://github.com/users/YeddaMC/projects/9/views/7) 
 * **Recursos:** [Tecnologias, Ferramentas, Linguagem, Hardware]
 * **Resultados Esperados:** [Performance e comportamento]
 * **Instruções:** [Como baixar e executar o projeto]
