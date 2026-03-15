@@ -12,6 +12,16 @@ Yedda Maria Carvalhais
 📁  ENTREGAS
 
 <hr style="height:4px; border:none; color:#000; background-color:#000;">
+ SPRINT 1
+ 1relatorio
+
+2 apresentação
+
+3 aps1
+
+4 versionamento
+
+<hr style="height:4px; border:none; color:#000; background-color:#000;">
  SPRINT 0
  
 
