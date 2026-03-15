@@ -15,7 +15,9 @@ Yedda Maria Carvalhais
  SPRINT 1
  <hr style="height:4px; border:none; color:#000; background-color:#000;">
 
-📁 ENTREGAS SPRINT 1: T1,T2,T3,T5_(INICIAL,CADASTRO, LOGIN, GESTÃO DE PERFIL) , APS 01 - Modelo conceitual e lógico dos dados , TRADE OFF, VERSIONAMNETO
+📁 ENTREGAS SPRINT 1: T1,T2,T3,T5_(INICIAL,CADASTRO, LOGIN, GESTÃO DE PERFIL) TELAS, NAVEGAÇÃO, PERSITÊNCIA DE DADOS.
+
+APS 01 - Modelo conceitual e lógico dos dados , TRADE OFF, VERSIONAMNETO
  
  
  1 [RELATÓRIO](https://github.com/YeddaMC/ACHOU_Projeto_Interdisciplinar_2_GTI_5/wiki/1_-RELAT%C3%93RIO-SPRINT-1)
