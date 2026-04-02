@@ -19,6 +19,10 @@ Yedda Maria Carvalhais
 
 [versão 2.2](https://github.com/YeddaMC/ACHOU_Projeto_Interdisciplinar_2_GTI_5/wiki/2_-S2_-versionamento-2.2-%E2%80%90-ajuste-de-sprints-e-remodelagem-do-cronograma-%E2%80%90-build-web)
 
+[RELATÓRIO](https://github.com/YeddaMC/ACHOU_Projeto_Interdisciplinar_2_GTI_5/wiki/2_-Sprint-2-%E2%80%90Documento-de-Gest%C3%A3o-e-Monitoramento)
+
+[TELAS - DB - MÍDIAS](https://github.com/YeddaMC/ACHOU_Projeto_Interdisciplinar_2_GTI_5/wiki/TELAS-%E2%80%90-DB-%E2%80%90-M%C3%8DDIAS)
+
 
 <hr style="height:4px; border:none; color:#000; background-color:#000;">
  SPRINT 1
