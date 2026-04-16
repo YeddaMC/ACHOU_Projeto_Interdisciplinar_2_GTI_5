@@ -15,7 +15,7 @@ Yedda Maria Carvalhais
 
 <hr style="height:4px; border:none; color:#000; background-color:#000;">
 
-[TUTORIAL ‐ PDF DA CERIMONIA DE REVIEW DAS SPRINTS USANDO GITHUB PROJECTS] (https://github.com/YeddaMC/ACHOU_Projeto_Interdisciplinar_2_GTI_5/wiki/TUTORIAL--%E2%80%90-PDF-DA-CERIMONIA-DE-REVIEW-DAS-SPRINTS)
+[TUTORIAL REGISTROS PARA REVIEW](https://github.com/YeddaMC/ACHOU_Projeto_Interdisciplinar_2_GTI_5/wiki/TUTORIAL--%E2%80%90-PDF-DA-CERIMONIA-DE-REVIEW-DAS-SPRINTS-USANDO-O-PROJECTS-DO-GITHUB)
 
 <hr style="height:4px; border:none; color:#000; background-color:#000;">
 
