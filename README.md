@@ -4,7 +4,7 @@
       <img width="173" height="168" alt="ACHOU_LOGO" src="https://github.com/user-attachments/assets/dee0335e-b6b1-498d-a1ec-5e09df1d70a5" />
     </td>
     <td valign="top" style="padding-left: 20px;">
-      Projeto Interdisciplinar 2_GTI5_IFPR_Campus Pinhais
+      Projeto Interdisciplinar_GTI5_IFPR_Campus Pinhais
       <br><br>
       <strong>EQUIPE:</strong><br>
       Mary Ana Carvalhais Carneiro<br>
@@ -14,6 +14,10 @@
     </td>
   </tr>
 </table>
+
+<hr style="height:4px; border:none; color:#000; background-color:#000;">
+📁 <a href="https://github.com/YeddaMC/ACHOU-_Projeto_III">2026.2_Projeto Interdisciplinar III</a>
+<hr style="height:4px; border:none; color:#000; background-color:#000;">
 
 
 
